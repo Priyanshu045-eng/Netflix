@@ -20,7 +20,7 @@ body {
 #container netflixintro {
   display: block;
   position: relative;
-  width: 300px;
+  width: 299px;
   height: 300px;
   overflow: hidden;
   animation-name: zoom-in;
@@ -998,3 +998,4 @@ body {
     background-color: rgba(228, 9, 19, 0);
   }
 }
+
